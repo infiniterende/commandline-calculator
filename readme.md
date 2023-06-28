@@ -1,5 +1,9 @@
 # Command Line Calculator
 
+### To Install: 
+```
+npm init
+```
 ### To Run:
 ```
 npm start
